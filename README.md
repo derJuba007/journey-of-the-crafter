@@ -1,2 +1,1 @@
-# journey-of-the-crafter
-Minecraft Modpack
+![Logo](https://i.imgur.com/wmnWKsx.png)
