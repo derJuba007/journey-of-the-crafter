@@ -4,14 +4,6 @@
 
 
 ## Features overview
-🍂 Better atmosphere thanks to new sounds and particle effects
+🍂 **Better atmosphere** thanks to new sounds and particle effects
 
-📜 Quests
-
-🐣 New Mobs
-
-🗿 New & Improved Structures
-
-🌴 New & Improved Biomes
-
-ℹ️  Better HUD & Menus
+📜 Villagers now have profession-related **quests** in addition to trade opportunities
