@@ -20,6 +20,10 @@
 
 🧭 **Redesigned HUD and menus**, including a completely overhauled creative menu and a new main menu
 
-🧱 New building blocks
+🧱 More building blocks
 
 🖼️ More paintings
+
+💿 More music discs
+
+🍉 More food
