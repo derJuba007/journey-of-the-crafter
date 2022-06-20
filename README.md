@@ -6,6 +6,6 @@
 ## Features overview
 🍂 **Better atmosphere** thanks to new sounds and particle effects
 
-📜 Villagers now have profession-related **quests** in addition to trade opportunities
+📜 Villagers now have profession-related **quests** in addition to trade offers
 
 🚀 **Improved and optimized performance** for better compatibility and faster loading times
