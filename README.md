@@ -9,3 +9,17 @@
 📜 Villagers now have profession-related **quests** in addition to trade offers
 
 🚀 **Improved and optimized performance** for better compatibility and faster loading times
+
+🗿 **New and improved structures** that make the world more alive
+
+🏛️ Villages have been revised and can now be found in several biomes
+
+🐛 Useful **tweaks** and **bugfixes**
+
+🌴 Enhanced and improved vanilla biomes
+
+🧭 **Redesigned HUD and menus**, including a completely overhauled creative menu and a new main menu
+
+🧱 New building blocks
+
+🖼️ More paintings
