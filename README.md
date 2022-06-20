@@ -1,3 +1,5 @@
+> [You want to play the modpack? Install the latest version via CurseForge.](https://www.curseforge.com/minecraft/modpacks/journey-of-the-crafter)
+
 ![Logo](https://i.imgur.com/wmnWKsx.png)
 
 **Journey of the Crafter** is a Minecraft modpack based on the  **Fabric** Modloader. It is designed to improve the exploration of a world in Minecraft and the overall adventure behind it. And that without moving too far away from the vanilla feel.
@@ -14,16 +16,28 @@
 
 🏛️ Villages have been revised and can now be found in several biomes
 
-🐛 Useful **tweaks** and **bugfixes**
+🐛 A ton of useful **tweaks** and **bugfixes**
 
 🌴 Enhanced and improved vanilla biomes
 
 🧭 **Redesigned HUD and menus**, including a completely overhauled creative menu and a new main menu
 
-🧱 More building blocks
+🛠️ Useful tools and improvements for mapmaker
 
-🖼️ More paintings
+## Fully Supported Languages
 
-💿 More music discs
+- English (en_US)
+- Deutsch/German (de_DE)
 
-🍉 More food
+_Mods that do not have a translation for the languages listed above by default have been translated by us exclusively for this modpack. The respective mod authors get permission from us to include the translations in their actual mod._
+
+## Recommendations
+**Allocated RAM:** min. 4 GB
+
+_You can customize the allocated ram directly in the CurseForge launcher. Select the Journey of the Crafter profile, click on the 3 dots to the left of the Play button and select Profile Options. Now there is a setting called Memory Settings. Remove the checkmark and choose a value._
+
+**It is not recommended to install more mods or change the config files.**
+
+_In order to match the mods against each other and add our own content, the config files were edited extensively. Therefore, it is recommended not to make any changes if you do not know what exactly you are doing, as any editing can make the modpack unplayable._
+
+_Optifine is not compatible with this modpack. You don't need it though, Sodium does a very good job and we have many other performance mods installed. Optifine is also not necessary for the use of shaders or dynamic lighting, these functions were provided by other mods._
