@@ -41,8 +41,3 @@ _You can customize the allocated ram directly in the CurseForge launcher. Select
 _In order to match the mods against each other and add our own content, the config files were edited extensively. Therefore, it is recommended not to make any changes if you do not know what exactly you are doing, as any editing can make the modpack unplayable._
 
 _Optifine is not compatible with this modpack. You don't need it though, Sodium does a very good job and we have many other performance mods installed. Optifine is also not necessary for the use of shaders or dynamic lighting, these functions were provided by other mods._
-
-## Links
-- [Download via CurseForge](https://www.curseforge.com/minecraft/modpacks/journey-of-the-crafter)
-- [View source on Github](https://github.com/derJuba007/journey-of-the-crafter)
-- [Join our Discord](#)
