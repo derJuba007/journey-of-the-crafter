@@ -26,7 +26,7 @@
 
 🔮 **Waystones** for easy and vanilla-friendly teleportation, that also generate in any village
 
-🤔 No need for Wikis. Everything you need to know is available directly in-game.
+🤔 No need for Wikis, everything you need to know is available directly in-game
 
 ## Fully Supported Languages
 
