@@ -22,6 +22,8 @@
 
 🛠️ Useful tools and improvements for mapmaker
 
+💾 Install AdventureMaps with just a few clicks from the Singelplayer menu
+
 🐣 **Numerous new mobs of all kinds**, including those discarded by Mojang like the copper golem
 
 🔮 **Waystones** for easy and vanilla-friendly teleportation, that also generate in any village
