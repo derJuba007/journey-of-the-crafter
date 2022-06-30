@@ -22,7 +22,7 @@
 
 🛠️ Useful tools and improvements for mapmaker
 
-💾 Install AdventureMaps with just a few clicks from the Singelplayer menu
+💾 Install AdventureMaps with just a few clicks from the singelplayer menu
 
 🐣 **Numerous new mobs of all kinds**, including those discarded by Mojang like the copper golem
 
