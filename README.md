@@ -20,13 +20,13 @@
 
 🧭 **Redesigned HUD and menus**, including a completely overhauled creative menu and a new main menu
 
-🛠️ Useful tools and improvements for mapmaker
-
-💾 Install AdventureMaps with just a few clicks from the singelplayer menu
-
 🐣 **Numerous new mobs of all kinds**, including those discarded by Mojang like the copper golem
 
 🔮 **Waystones** for easy and vanilla-friendly teleportation, that also generate in any village
+
+🛠️ Useful tools and improvements for mapmaker
+
+💾 Install AdventureMaps with just a few clicks from the singelplayer menu
 
 🤔 No need for Wikis, everything you need to know is available directly in-game
 
