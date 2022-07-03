@@ -1,6 +1,6 @@
 ![Logo](https://i.imgur.com/wmnWKsx.png)
 
-**Journey of the Crafter** is a Minecraft modpack based on the  **Fabric** Modloader. It is designed to improve the exploration of a world in Minecraft and the overall adventure behind it. And that without moving too far away from the vanilla feel.
+**Journey of the Crafter** is a Minecraft 1.19 modpack based on the  **Fabric** Modloader. It is designed to improve the exploration of a world in Minecraft and the overall adventure behind it. And that without moving too far away from the vanilla feel.
 
 
 ## Features overview
