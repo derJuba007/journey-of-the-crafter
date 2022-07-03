@@ -1,0 +1,138 @@
+{
+  "tab_enabled": true,
+  "tab_name": "music_tab",
+  "tab_stack": { "name": "minecraft:music_disc_otherside"},
+  "tab_items": [
+    {
+      "name": "minecraft:jukebox",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:note_block",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "hide_old_tab": true,
+      "nbt": "{instrument: \"minecraft:sing_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "hide_old_tab": true,
+      "nbt": "{instrument: \"minecraft:seek_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "hide_old_tab": true,
+      "nbt": "{instrument: \"minecraft:feel_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "hide_old_tab": true,
+      "nbt": "{instrument: \"minecraft:admire_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "hide_old_tab": true,
+      "nbt": "{instrument: \"minecraft:call_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "hide_old_tab": true,
+      "nbt": "{instrument: \"minecraft:yearn_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "hide_old_tab": true,
+      "nbt": "{instrument: \"minecraft:dream_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:music_disc_fragment_5",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_13",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_cat",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_blocks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_chirp",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_far",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_mall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_mellohi",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_stal",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_strad",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_ward",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_11",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_wait",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_otherside",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_5",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:music_disc_pigstep",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:button_mushrooms_music_disk",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:ghost_town_music_disk",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:swamp_jives_music_disk",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:red_rose_music_disk",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:music_disc_coconut",
+      "hide_old_tab": true
+    }
+  ]
+}

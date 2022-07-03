@@ -1,0 +1,163 @@
+{
+  "tab_enabled": true,
+  "tab_name": "banner_tab",
+  "tab_stack": { "name": "biomemakeover:gray_tapestry"},
+  "tab_items": [
+    {
+      "name": "minecraft:flower_banner_pattern",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:creeper_banner_pattern",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:skull_banner_pattern",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mojang_banner_pattern",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:globe_banner_pattern",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:piglin_banner_pattern",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:white_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:orange_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:magenta_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:light_blue_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:yellow_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:lime_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:pink_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:gray_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:light_gray_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cyan_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:purple_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:blue_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:brown_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:green_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:red_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:black_banner",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:white_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:orange_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:magenta_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:light_blue_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:yellow_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:lime_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:pink_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:gray_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:light_gray_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:cyan_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:purple_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:blue_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:brown_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:green_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:red_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:black_tapestry",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:adjudicator_tapestry",
+      "hide_old_tab": true
+    }
+  ]
+}

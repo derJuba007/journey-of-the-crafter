@@ -1,0 +1,82 @@
+{
+  "tab_enabled": true,
+  "tab_name": "workstations_tab",
+  "tab_stack": { "name": "minecraft:crafting_table"},
+  "tab_items": [
+    {
+      "name": "minecraft:crafting_table",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:furnace",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:smoker",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:blast_furnace",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:enchanting_table",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:brewing_stand",
+      "hide_old_tab": true
+    },{
+      "name": "minecraft:cauldron",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:loom",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:composter",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cartography_table",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:lectern",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:fletching_table",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:grindstone",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:smithing_table",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stonecutter",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:anvil",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:chipped_anvil",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:damaged_anvil",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:altar",
+      "hide_old_tab": true
+    }
+  ]
+}

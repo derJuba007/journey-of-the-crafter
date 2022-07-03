@@ -1,0 +1,171 @@
+{
+  "tab_enabled": true,
+  "tab_name": "armor_tab",
+  "tab_stack": { "name": "minecraft:iron_chestplate"},
+  "tab_items": [
+    {
+      "name": "minecraft:shield",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:turtle_helmet",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:cowboy_hat",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:witch_hat",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:leather_helmet",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:leather_chestplate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:leather_leggings",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:leather_boots",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:cladded_helmet",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:cladded_chestplate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:cladded_leggings",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:cladded_boots",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:chainmail_helmet",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:chainmail_chestplate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:chainmail_leggings",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:chainmail_boots",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:iron_helmet",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:iron_chestplate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:iron_leggings",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:iron_boots",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:golden_helmet",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:golden_chestplate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:golden_leggings",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:golden_boots",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diamond_helmet",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diamond_chestplate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diamond_leggings",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diamond_boots",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:netherite_helmet",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:netherite_chestplate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:netherite_leggings",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:netherite_boots",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:leather_horse_armor",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:iron_horse_armor",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:golden_horse_armor",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diamond_horse_armor",
+      "hide_old_tab": true
+    },
+    {
+      "name": "wolveswitharmor:leather_wolf_armor",
+      "hide_old_tab": true
+    },
+    {
+      "name": "wolveswitharmor:iron_wolf_armor",
+      "hide_old_tab": true
+    },
+    {
+      "name": "wolveswitharmor:golden_wolf_armor",
+      "hide_old_tab": true
+    },
+    {
+      "name": "wolveswitharmor:diamond_wolf_armor",
+      "hide_old_tab": true
+    },
+    {
+      "name": "wolveswitharmor:netherite_wolf_armor",
+      "hide_old_tab": true
+    }
+  ]
+}

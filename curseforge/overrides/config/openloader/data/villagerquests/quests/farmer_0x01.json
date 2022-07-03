@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "title": "Fresh seed",
+    "level": 0,
+    "type": "farm",
+    "profession": "farmer",
+    "task": [
+        "submit",
+        "minecraft:seed",
+        32
+    ],
+    "description": "A new sowing season begins. Can you bring me 32 seeds?",
+    "experience": 10,
+    "reward": [
+        "minecraft:emerald",
+        5
+    ]
+}

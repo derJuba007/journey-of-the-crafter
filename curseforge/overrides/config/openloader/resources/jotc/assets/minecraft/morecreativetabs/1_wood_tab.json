@@ -1,0 +1,619 @@
+{
+  "tab_enabled": true,
+  "tab_name": "wood_tab",
+  "tab_stack": { "name": "minecraft:oak_log"},
+  "tab_items": [
+    {
+      "name": "minecraft:oak_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_oak_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:oak_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_oak_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:oak_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:oak_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:oak_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:oak_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:oak_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:birch_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_birch_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:birch_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_birch_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:birch_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:birch_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:birch_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:birch_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:birch_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:spruce_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_spruce_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:spruce_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_spruce_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:spruce_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:spruce_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:spruce_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:spruce_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:spruce_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:jungle_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_jungle_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:jungle_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_jungle_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:jungle_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:jungle_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:jungle_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:jungle_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:jungle_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:acacia_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_acacia_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:acacia_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_acacia_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:acacia_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:acacia_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:acacia_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:acacia_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:acacia_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:dark_oak_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_dark_oak_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:dark_oak_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_dark_oak_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:dark_oak_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:dark_oak_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:dark_oak_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:dark_oak_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:dark_oak_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mangrove_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_mangrove_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mangrove_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_mangrove_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mangrove_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mangrove_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mangrove_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mangrove_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mangrove_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:crimson_stem",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_crimson_stem",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:crimson_hyphae",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_crimson_hyphae",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:crimson_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:crimson_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:crimson_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:crimson_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:crimson_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:warped_stem",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_warped_stem",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:warped_hyphae",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stripped_warped_hyphae",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:warped_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:warped_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:warped_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:warped_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:warped_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:blighted_balsa_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:stripped_blighted_balsa_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:blighted_balsa_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:stripped_blighted_balsa_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:blighted_balsa_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:blighted_balsa_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:blighted_balsa_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:blighted_balsa_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:blighted_balsa_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:willow_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:stripped_willow_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:willow_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:stripped_willow_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:willow_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:willow_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:willow_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:willow_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:willow_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:swamp_cypress_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:stripped_swamp_cypress_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:swamp_cypress_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:stripped_swamp_cypress_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:swamp_cypress_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:swamp_cypress_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:swamp_cypress_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:swamp_cypress_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:swamp_cypress_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:ancient_oak_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:stripped_ancient_oak_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:ancient_oak_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:stripped_ancient_oak_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:ancient_oak_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:ancient_oak_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:ancient_oak_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:ancient_oak_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:ancient_oak_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:coconut_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:stripped_coconut_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:coconut_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:stripped_coconut_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:coconut_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:coconut_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:coconut_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:coconut_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:coconut_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:walnut_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:stripped_walnut_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:walnut_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:stripped_walnut_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:walnut_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:walnut_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:walnut_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:walnut_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:walnut_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:azalea_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:stripped_azalea_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:azalea_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:stripped_azalea_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:azalea_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:azalea_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:azalea_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:azalea_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:azalea_sign",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:flowering_azalea_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:stripped_flowering_azalea_log",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:flowering_azalea_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:stripped_flowering_azalea_wood",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:flowering_azalea_planks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:flowering_azalea_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:flowering_azalea_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:flowering_azalea_fence",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:flowering_azalea_sign",
+      "hide_old_tab": true
+    }
+  ]
+}

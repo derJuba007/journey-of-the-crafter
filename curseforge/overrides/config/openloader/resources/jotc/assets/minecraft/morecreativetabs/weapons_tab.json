@@ -1,0 +1,51 @@
+{
+  "tab_enabled": true,
+  "tab_name": "weapons_tab",
+  "tab_stack": { "name": "minecraft:golden_sword"},
+  "tab_items": [
+    {
+      "name": "minecraft:bow",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:crossbow",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:trident",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:wooden_sword",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stone_sword",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:iron_sword",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:golden_sword",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diamond_sword",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:netherite_sword",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:arrow",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:spectral_arrow",
+      "hide_old_tab": true
+    }
+  ]
+}

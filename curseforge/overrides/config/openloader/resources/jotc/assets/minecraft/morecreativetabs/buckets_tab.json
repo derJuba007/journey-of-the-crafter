@@ -1,0 +1,59 @@
+{
+  "tab_enabled": true,
+  "tab_name": "buckets_tab",
+  "tab_stack": { "name": "minecraft:bucket"},
+  "tab_items": [
+    {
+      "name": "minecraft:bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:water_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:lava_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:powder_snow_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:milk_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:pufferfish_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:salmon_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cod_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:tropical_fish_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "biomemakeover:glowfish_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:axolotl_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:tadpole_bucket",
+      "hide_old_tab": true
+    },
+    {
+      "name": "naturalist:snail_bucket",
+      "hide_old_tab": true
+    }
+  ]
+}

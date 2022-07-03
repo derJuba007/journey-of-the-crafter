@@ -1,0 +1,66 @@
+type = menu
+
+customization-meta {
+  identifier = adventuremaps
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 60
+  actionid = 429a0e59-4860-4a4b-9577-be57d7cc35bc1655927955678
+  action = addtext
+  y = 111
+  scale = 3.0
+  alignment = left
+  value = Coming Soon
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 59
+  actionid = a696214a-a353-4f1a-b8a0-aca9ec514d9f1655928144286
+  action = addtext
+  y = 140
+  scale = 1.0
+  alignment = left
+  value = With one of the near future updates it will be possible
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 59
+  actionid = 927eff45-811d-47ea-9ed0-946378c077a01655928175759
+  action = addtext
+  y = 150
+  scale = 1.0
+  alignment = left
+  value = to download and install AdventureMaps via this menu.
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui
+  x = 190
+  width = 100
+  actionid = dc78f649-63e1-48e0-a14d-d07edf36fc741655928204231
+  action = addbutton
+  y = 175
+  label = Back
+  value = 
+  height = 20
+}
+

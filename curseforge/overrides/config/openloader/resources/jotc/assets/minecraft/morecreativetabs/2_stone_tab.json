@@ -1,0 +1,339 @@
+{
+  "tab_enabled": true,
+  "tab_name": "stone_tab",
+  "tab_stack": { "name": "minecraft:stone"},
+  "tab_items": [
+    {
+      "name": "minecraft:stone",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stone_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stone_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:smooth_stone",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:smooth_stone_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cobblestone",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cobblestone_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cobblestone_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cobblestone_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mossy_cobblestone",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mossy_cobblestone_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mossy_cobblestone_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mossy_cobblestone_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stone_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stone_brick_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stone_brick_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:stone_brick_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mossy_stone_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mossy_stone_brick_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mossy_stone_brick_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:mossy_stone_brick_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cracked_stone_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:chiseled_stone_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:granite",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:granite_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:granite_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:granite_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_granite",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_granite_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_granite_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diorite",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diorite_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diorite_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:diorite_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_diorite",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_diorite_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_diorite_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:andesite",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:andesite_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:andesite_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:andesite_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_andesite",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_andesite_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_andesite_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:deepslate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cobbled_deepslate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cobbled_deepslate_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cobbled_deepslate_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cobbled_deepslate_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_deepslate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_deepslate_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_deepslate_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_deepslate_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:deepslate_tiles",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:deepslate_tile_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:deepslate_tile_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:deepslate_tile_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:deepslate_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:deepslate_brick_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:deepslate_brick_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:deepslate_brick_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cracked_deepslate_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cracked_deepslate_tiles",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:chiseled_deepslate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:reinforced_deepslate",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:calcite",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:tuff",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:dripstone_block",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:blackstone",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:blackstone_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:blackstone_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:blackstone_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_blackstone",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_blackstone_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_blackstone_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_blackstone_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_blackstone_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_blackstone_brick_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_blackstone_brick_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:polished_blackstone_brick_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:cracked_polished_blackstone_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:chiseled_polished_blackstone",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:bedrock",
+      "hide_old_tab": true
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "tab_enabled": true,
+  "tab_name": "cold_tab",
+  "tab_stack": { "name": "ecologics:ice_bricks"},
+  "tab_items": [
+    {
+      "name": "minecraft:snowball",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:snow",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:powder_snow_bucket",
+      "hide_old_tab": false
+    },
+    {
+      "name": "minecraft:snow_block",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:snow_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:snow_brick_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:snow_brick_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:snow_brick_wall",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:thin_ice",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:ice",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:packed_ice",
+      "hide_old_tab": true
+    },
+    {
+      "name": "minecraft:blue_ice",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:ice_bricks",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:ice_brick_stairs",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:ice_brick_slab",
+      "hide_old_tab": true
+    },
+    {
+      "name": "ecologics:ice_brick_wall",
+      "hide_old_tab": true
+    }
+  ]
+}
