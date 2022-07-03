@@ -1,0 +1,19 @@
+{
+  "dogsSpawnLying": true,
+  "timeBeforeLie": 200,
+  "rangeBeforeGettingUp": 4.0,
+  "getsUpFor": "OWNER",
+  "attemptModWolfSupport": false,
+  "defaultPoses": [
+    "forelegStraight",
+    "forelegSprawled",
+    "forelegSprawledBack",
+    "forelegSkewed",
+    "forelegSide",
+    "hindlegStraight",
+    "hindlegStraightBack",
+    "hindlegSprawled",
+    "hindlegSprawledBack",
+    "hindlegSide"
+  ]
+}

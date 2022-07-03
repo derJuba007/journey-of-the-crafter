@@ -1,0 +1,11 @@
+!!com.github.einjerjar.mc.keymap.KeymapConfig
+autoSelectLayout: false
+customLayout: de_de
+debug: false
+firstOpenDone: true
+keyButtonMalilibKeybinds: true
+keyButtonModName: true
+keybindKeyOnHover: true
+keybindNameOnHover: true
+malilibSupport: true
+replaceKeybindScreen: true
