@@ -28,6 +28,8 @@
 
 💾 Install AdventureMaps with just a few clicks from the singelplayer menu
 
+🏆 Completely **new and overhauled avancements** for new challenges and goals
+
 🤔 No need for Wikis, everything you need to know is available directly in-game
 
 ## Fully Supported Languages
